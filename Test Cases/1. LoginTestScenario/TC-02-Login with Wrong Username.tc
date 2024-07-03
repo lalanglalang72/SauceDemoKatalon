@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02-Login with Wrong Username</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>bba73058-7e67-424a-bfc0-cf4a94547b47</testCaseGuid>
+</TestCaseEntity>

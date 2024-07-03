@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-01-Checkout with Multiple Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>7b4062cd-7fe8-42e4-a429-a56b6ceca716</testCaseGuid>
+</TestCaseEntity>
